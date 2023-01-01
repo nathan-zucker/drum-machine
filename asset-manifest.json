@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/drum-machine/static/css/main.073c9b0a.css",
-    "main.js": "/drum-machine/static/js/main.dd7a1913.js",
+    "main.css": "/drum-machine/static/css/main.66716ee0.css",
+    "main.js": "/drum-machine/static/js/main.827ad762.js",
     "static/js/787.c419f7a1.chunk.js": "/drum-machine/static/js/787.c419f7a1.chunk.js",
-    "static/media/logo.svg": "/drum-machine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/midTom.png": "/drum-machine/static/media/midTom.d42e8d6a7a3144dd07cb.png",
+    "static/media/audio_drum_machines_Akai_MPC-X__49crash.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__49crash.f85083007bc5f34b028f.mp3",
+    "static/media/Kick.png": "/drum-machine/static/media/Kick.496797c38e3dda979116.png",
+    "static/media/lowTom.png": "/drum-machine/static/media/lowTom.97a98920c55595351f32.png",
+    "static/media/snare.png": "/drum-machine/static/media/snare.baebb68342b91e085bb2.png",
+    "static/media/rimshot.png": "/drum-machine/static/media/rimshot.afef221c54acc92304a0.png",
+    "static/media/audio_drum_machines_Akai_MPC-X__41tom_low.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__41tom_low.9503a84f11d5d9b9c952.mp3",
+    "static/media/audio_drum_machines_Akai_MPC-X__45tom_mid.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__45tom_mid.89b08695faddb121291c.mp3",
+    "static/media/audio_drum_machines_Akai_MPC-X__46hat_open.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__46hat_open.04af6581145115794a23.mp3",
+    "static/media/audio_drum_machines_Akai_MPC-X__37rimshot_ra.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__37rimshot_ra.0f177260c82b809e48a4.mp3",
+    "static/media/audio_drum_machines_Akai_MPC-X__36kick.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__36kick.a7204292fc73eefe21e5.mp3",
+    "static/media/audio_drum_machines_Akai_MPC-X__42hat_closed.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__42hat_closed.e43ec4e4d0c3efdc16b1.mp3",
+    "static/media/audio_drum_machines_Akai_MPC-X__60_snare.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__60_snare.c58d1fd3f6d6b345c75d.mp3",
+    "static/media/audio_drum_machines_Akai_MPC-X__44hat_pedal.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__44hat_pedal.f56ac2b937e00e8b30ae.mp3",
     "index.html": "/drum-machine/index.html",
-    "main.073c9b0a.css.map": "/drum-machine/static/css/main.073c9b0a.css.map",
-    "main.dd7a1913.js.map": "/drum-machine/static/js/main.dd7a1913.js.map",
+    "main.66716ee0.css.map": "/drum-machine/static/css/main.66716ee0.css.map",
+    "main.827ad762.js.map": "/drum-machine/static/js/main.827ad762.js.map",
     "787.c419f7a1.chunk.js.map": "/drum-machine/static/js/787.c419f7a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dd7a1913.js"
+    "static/css/main.66716ee0.css",
+    "static/js/main.827ad762.js"
   ]
 }
