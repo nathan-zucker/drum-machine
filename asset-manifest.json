@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/drum-machine/static/css/main.66716ee0.css",
-    "main.js": "/drum-machine/static/js/main.827ad762.js",
+    "main.css": "/drum-machine/static/css/main.3e61d818.css",
+    "main.js": "/drum-machine/static/js/main.9136f5cc.js",
     "static/js/787.c419f7a1.chunk.js": "/drum-machine/static/js/787.c419f7a1.chunk.js",
     "static/media/midTom.png": "/drum-machine/static/media/midTom.d42e8d6a7a3144dd07cb.png",
     "static/media/audio_drum_machines_Akai_MPC-X__49crash.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__49crash.f85083007bc5f34b028f.mp3",
@@ -13,17 +13,20 @@
     "static/media/audio_drum_machines_Akai_MPC-X__45tom_mid.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__45tom_mid.89b08695faddb121291c.mp3",
     "static/media/audio_drum_machines_Akai_MPC-X__46hat_open.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__46hat_open.04af6581145115794a23.mp3",
     "static/media/audio_drum_machines_Akai_MPC-X__37rimshot_ra.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__37rimshot_ra.0f177260c82b809e48a4.mp3",
+    "static/media/Hit_00.mp3": "/drum-machine/static/media/Hit_00.9f3f6e9ad6dc5fd4422f.mp3",
     "static/media/audio_drum_machines_Akai_MPC-X__36kick.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__36kick.a7204292fc73eefe21e5.mp3",
+    "static/media/Hit_03.mp3": "/drum-machine/static/media/Hit_03.719ed84807d3adc76d1f.mp3",
+    "static/media/Bass_Hit.mp3": "/drum-machine/static/media/Bass_Hit.19fac6cc74f82a8a7c02.mp3",
     "static/media/audio_drum_machines_Akai_MPC-X__42hat_closed.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__42hat_closed.e43ec4e4d0c3efdc16b1.mp3",
     "static/media/audio_drum_machines_Akai_MPC-X__60_snare.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__60_snare.c58d1fd3f6d6b345c75d.mp3",
     "static/media/audio_drum_machines_Akai_MPC-X__44hat_pedal.mp3": "/drum-machine/static/media/audio_drum_machines_Akai_MPC-X__44hat_pedal.f56ac2b937e00e8b30ae.mp3",
     "index.html": "/drum-machine/index.html",
-    "main.66716ee0.css.map": "/drum-machine/static/css/main.66716ee0.css.map",
-    "main.827ad762.js.map": "/drum-machine/static/js/main.827ad762.js.map",
+    "main.3e61d818.css.map": "/drum-machine/static/css/main.3e61d818.css.map",
+    "main.9136f5cc.js.map": "/drum-machine/static/js/main.9136f5cc.js.map",
     "787.c419f7a1.chunk.js.map": "/drum-machine/static/js/787.c419f7a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66716ee0.css",
-    "static/js/main.827ad762.js"
+    "static/css/main.3e61d818.css",
+    "static/js/main.9136f5cc.js"
   ]
 }
